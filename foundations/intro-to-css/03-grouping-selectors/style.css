@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.click {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+.click.yes {
+    color: white;
+    background-color: black;
+}
+.click.no {
+    color: black;
+    background-color: yellow;
+}
